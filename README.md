@@ -1,21 +1,18 @@
 # Awesome BibleProject-Based Projects
 
-A curated list of projects using BibleProject's materials as a base.
+A curated list of projects using BibleProject's material.
 
 ## Table of Contents
-- [Apps](#apps)
-- [Websites](#websites)
-- [Podcasts](#podcasts)
+- [Teaching Tools](#teaching-tools)
+- [Other Projects](#other)
 - [Contributing](#contributing)
 
-## Apps
-- [Project Name](link-to-project) - Short description of how it uses BibleProject materials.
+## Teaching Tools
+- [One Story Family](https://www.onestoryfamily.org/) - Helping families explore the Bible and follow the way of Jesus. Homeschool material that helps families understand the story of the Bible.
 
-## Websites
-- [Project Name](link-to-project) - Short description.
-
-## Podcasts
-- [Project Name](link-to-project) - Short description.
+## Other Projects
+### These projects, though not directly a spinoff from BibleProject, are in line with BibleProject's mission
+- [The Bible Recap](https://www.thebiblerecap.com/) - The Bible Recap (TBR) follows a chronological Bible reading plan and is a short daily recap by creator and host, Tara-Leigh Cobble. She’ll highlight and summarize that day’s Bible reading in a casual, easy to understand way. 
 
 ## Contributing
 See [contributing.md](contributing.md) for how to suggest additions.
