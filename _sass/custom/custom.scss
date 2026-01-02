@@ -40,6 +40,12 @@ a {
   border-right: 1px solid #E5E7EB;
 }
 
+// Active navigation links should be blue, not purple
+.nav-list-link.active,
+a.nav-list-link.active {
+  color: #1F75FE !important; // $bp-blue
+}
+
 // Code blocks with better styling
 .highlight {
   border-radius: 6px;
