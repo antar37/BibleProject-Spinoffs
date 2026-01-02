@@ -1,0 +1,65 @@
+// Custom styles to match BibleProject.com aesthetic
+
+// Import Google Fonts similar to BibleProject's typography
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+// Override base font family
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+// Enhance heading styles with BibleProject's bold, clear typography
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+// Style links to be more prominent (BibleProject style)
+a {
+  transition: color 0.2s ease;
+  
+  &:hover {
+    color: #1E40AF; // Darker blue on hover
+  }
+}
+
+// Button styling to match BibleProject's clean, modern buttons
+.btn {
+  border-radius: 6px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// Sidebar navigation enhancements
+.side-bar {
+  border-right: 1px solid #E5E7EB;
+}
+
+// Code blocks with better styling
+.highlight {
+  border-radius: 6px;
+  border: 1px solid #E5E7EB;
+}
+
+// Table styling improvements
+table {
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+// Search input styling
+.search-input {
+  border-radius: 6px;
+  border: 1px solid #E5E7EB;
+  
+  &:focus {
+    border-color: #1F75FE;
+    box-shadow: 0 0 0 3px rgba(31, 117, 254, 0.1);
+  }
+}
+

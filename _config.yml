@@ -1,5 +1,6 @@
 title: BibleProject Spinoffs
 description: A collection of projects based on BibleProject materials.
 remote_theme: just-the-docs/just-the-docs
+color_scheme: custom
 plugins:
   - jekyll-remote-theme
