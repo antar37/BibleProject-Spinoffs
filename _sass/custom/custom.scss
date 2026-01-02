@@ -40,10 +40,10 @@ a {
   border-right: 1px solid #E5E7EB;
 }
 
-// Active navigation links should be blue, not purple
+// Active navigation links should be purple
 .nav-list-link.active,
 a.nav-list-link.active {
-  color: #1F75FE !important; // $bp-blue
+  color: #6B46C1 !important; // $bp-purple
 }
 
 // Code blocks with better styling
