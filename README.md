@@ -1,4 +1,4 @@
-# Awesome BibleProject-Based Projects
+# BibleProject-Inspired Projects
 
 A curated list of projects using BibleProject's material.
 
