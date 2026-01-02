@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5, h6 {
 // Style links to be more prominent (BibleProject style)
 a {
   transition: color 0.2s ease;
-  color:#1F75FE;
+  color:#1F75FE!important;
   
   &:hover {
     color: #1E40AF; // Darker blue on hover
